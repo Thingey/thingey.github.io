@@ -21,4 +21,5 @@ How does it work?
 8. Udon code/prefab: 10% ish (you can read the the text inside the world but I havent figured out how to make each video a clickable link inside of unity yet, so its unusable text just showing title and URL to the video for now.
 
 Why are you doing this?
+
 I watch a lot of funny videos in VRChat with PC and Quest friends and It is annoying to tab out just to find new videos to watch and my Quest friends complains about they cant copy link from outside the game with their headsets, so I thought "Can I eaisly make a way to get the latest funny videos and have buttons inside of my world to just press play on to enjoy the content?"
