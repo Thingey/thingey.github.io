@@ -5,7 +5,7 @@ Project under development
 Goals!
 
 Be a asset for world makers of VRChat to Easy have youtube playlist or lists they can press and watch youtube videos with their friends inside of VRChat.
-This project is made to try exlude the need to tab out to browsers and copy links and get a easy updated list from multiple youtube channels.
+This project is made to try exlude the need to tab out to browsers and copy links and get a easy updated list from multiple youtube channels and always get new videos instead of youtube's search that shows all from 1 day to 3 year old videos as result unless you go intot he challens page and look if they posted new content.
 
 How does it work?
 
